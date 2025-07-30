@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 4632b922bbfc3434192753ccc7771507
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DynamometerBody_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 12
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a268c777fc8646a792721ece45249
+      internalID: 1249890629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamometerBody_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 206
+        width: 642
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3e166e5c4e6449854627a3422a5aa
+      internalID: 2058925592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamometerBody_2
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 165
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04fbd7040d5c4d4d858c96948587c01
+      internalID: -1491913232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamometerBody_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 88
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff49b24b55596754bbda121fef934e81
+      internalID: -25949905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamometerBody_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 763
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1164d3682009d841b2bb7dcb5c576ad
+      internalID: 376123693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamometerBody_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 132
+        width: 558
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd57cbea99e5264a8adeff0c8762d64
+      internalID: -268109556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamometerBody_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 584
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd626db4a6c5e874ba6f90195796a21c
+      internalID: 1675840743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bb27f95282bac014bbe48d1559a7955a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DynamometerBody_0: 1249890629
+      DynamometerBody_1: 2058925592
+      DynamometerBody_10: 849721305
+      DynamometerBody_11: -867594183
+      DynamometerBody_12: 18636407
+      DynamometerBody_13: 998496871
+      DynamometerBody_14: 736575970
+      DynamometerBody_15: -1519607843
+      DynamometerBody_16: -1632540525
+      DynamometerBody_17: 323597836
+      DynamometerBody_18: -532236167
+      DynamometerBody_19: -619463962
+      DynamometerBody_2: -1491913232
+      DynamometerBody_20: 1046293859
+      DynamometerBody_21: 1769248285
+      DynamometerBody_22: -884527927
+      DynamometerBody_23: -223839823
+      DynamometerBody_24: -736513503
+      DynamometerBody_25: -1972225378
+      DynamometerBody_26: 692644513
+      DynamometerBody_27: -1496074571
+      DynamometerBody_28: 1717495976
+      DynamometerBody_29: -1048434444
+      DynamometerBody_3: -25949905
+      DynamometerBody_30: -467693794
+      DynamometerBody_31: 1931394851
+      DynamometerBody_32: 1689928209
+      DynamometerBody_33: -322601546
+      DynamometerBody_34: 406055441
+      DynamometerBody_35: 1501550717
+      DynamometerBody_36: -1113787442
+      DynamometerBody_37: 9915827
+      DynamometerBody_38: -2063715101
+      DynamometerBody_39: 363808835
+      DynamometerBody_4: -268109556
+      DynamometerBody_40: 1802702460
+      DynamometerBody_41: 1704703857
+      DynamometerBody_42: 2117476704
+      DynamometerBody_43: 2067172846
+      DynamometerBody_44: 1401256386
+      DynamometerBody_45: 216326765
+      DynamometerBody_46: -1131458283
+      DynamometerBody_47: -1169901839
+      DynamometerBody_48: 1022429310
+      DynamometerBody_49: 1609130839
+      DynamometerBody_5: 1675840743
+      DynamometerBody_50: 1302314005
+      DynamometerBody_51: 167029113
+      DynamometerBody_52: -310668325
+      DynamometerBody_53: -745287005
+      DynamometerBody_54: 376123693
+      DynamometerBody_55: 1657709995
+      DynamometerBody_56: 1202679125
+      DynamometerBody_57: -1358944619
+      DynamometerBody_58: 22509400
+      DynamometerBody_59: 502242658
+      DynamometerBody_6: -1097777326
+      DynamometerBody_60: 1480613575
+      DynamometerBody_61: -1362162700
+      DynamometerBody_62: 1131929807
+      DynamometerBody_63: -856419889
+      DynamometerBody_64: -1076731244
+      DynamometerBody_65: -177059294
+      DynamometerBody_66: -446884381
+      DynamometerBody_67: -1569713921
+      DynamometerBody_7: 1939124308
+      DynamometerBody_8: -1865539609
+      DynamometerBody_9: -2117186645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
