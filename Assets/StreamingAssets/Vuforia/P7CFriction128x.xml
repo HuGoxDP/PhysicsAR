@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Friction_InteractiveScenarioSurfacePropertiesFriction" size="128.000000 128.000000"/>
+        <ImageTarget name="Friction_InteractiveScenarioStaticFrictionOvercoming" size="128.000000 128.000000"/>
+        <ImageTarget name="Friction_InteractiveScenarioNormalReactionFriction" size="128.000000 128.000000"/>
+        <ImageTarget name="Friction_InteractiveScenarioFrictionMassMaterialDependence" size="128.000000 128.000000"/>
+        <ImageTarget name="Friction_InteractiveScenarioContactAreaFriction" size="128.000000 128.000000"/>
+        <ImageTarget name="Friction_AnimationScenarioStaticFrictionDemonstration" size="128.000000 128.000000"/>
+    </Tracking>
+</QCARConfig>
